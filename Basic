@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Belajar</title>
+</head>
+
+<body>
+    <h1>keur naon euy</h1>
+  <!--  <h2>keur naon euy</h2>
+    <h3>keur naon euy</h3>-->
+    
+    
+    <p>semangat <b>belajar</b> coding jang...</p>
+    <!-- <p>semangat <i>belajar</i> coding jang...</p>
+    <p>semangat <s>belajar</s> coding jang...</p>
+    <p>semangat <u>belajar</u> coding jang...</p>
+    <p>semangat <small>belajar</small> coding jang...</p>
+    <p>semangat <ins>belajar</ins> coding jang...</p> -->
+    
+    <a href="https://google.com">klik disini<a/>
+</br>
+    <!-- <img src="/var/mobile/Containers/Data/Application/364AACA7-5E9A-4B05-8307-597AC08251F8/Documents/KeepData/otherfiles/HTML_DANI/dani1.png" alt="gambar2"></img> -->
+    <!--
+    <table>
+        <tr>
+            <th>No.</th>
+            <th>Nama Makanan</th>
+            <th>Harga</th>
+            <th>Keterangan</th>
+        </tr>
+        
+        <tr>
+            <td>1</td>
+            <td>Ayam Goreng</td>
+            <td>15000</td>
+            <td>Pedas</td>
+        </tr>
+        
+         <tr>
+            <td>2</td>
+            <td>Ayam Geprek</td>
+            <td>16000</td>
+            <td>Pedas</td>
+        </tr>
+        
+        <tr>
+            <td>3</td>
+            <td>Ayam Bakar</td>
+            <td>15000</td>
+            <td>Pedas</td>
+        </tr>
+        
+        <tr>
+            <td>4</td>
+            <td>Ayam pepes</td>
+            <td>25000</td>
+            <td>manis</td>
+        </tr>
+    
+    </table>
+    
+    <ul>
+        <li>ayam bakar</li>
+        <li>ayam gulsi</li>
+        <li>ikan bakar</li>
+        <li>basko</li>
+    </ul>
+    
+        <ol type="I">
+        <li>ayam bakar</li>
+        <li>ayam gulsi</li>
+        <li>ikan bakar</li>
+        <li>basko</li>
+    </ol>
+    
+    -->
+    <!--
+    <iframe src="https://detik.com/" height="500" width="500">
+    </iframe>
+    -->
+    
+  <!--<iframe height="500" width="500" src="https://youtu.be/R7Bh9GNaMzE" >
+    </iframe>-->
+    
+    <!--<input type="text"><br>
+    <input type="Password"><br>
+    <input type="submit"><br>
+    <input type="reset"><br>
+    <input type="button"><br>
+    <input type="radio"><br>
+    <input type="checkbox"><br>
+    <input type="color"><br>
+    <input type="date"><br>
+    <input type="datetime-local"><br>
+    <input type="email"><br>
+    <input type="month"><br>
+    <input type="range"><br>
+    <input type="search"><br>
+    <input type="tel"><br>
+    <input type="url"><br>
+    <input type="time"><br>
+    <input type="week"><br>-->
+    
+    <!--
+    <form>
+        <input type="text"><br>
+        <input type="Password"><br>
+        <input type="submit"><br>
+        <input type="reset"><br>
+        <input type="button"><br>
+        <input type="radio"><br>
+        <input type="checkbox"><br>
+        <input type="color"><br>
+        <input type="date"><br>
+        <input type="datetime-local"><br>
+        <input type="email"><br>
+        <input type="month"><br>
+        <input type="range"><br>
+        <input type="search"><br>
+        <input type="tel"><br>
+        <input type="url"><br>
+        <input type="time"><br>
+        <input type="week"><br>
+        
+    </form>
+    -->
+    
+    <form>
+        <fieldset>
+            <legend>Input Registration Form : </legend>
+            <input type="text"><br>
+            <input type="Password"><br>
+        
+        </fieldset>
+    <select>
+        <optgroup label="sate">
+        <option>Sate Padang</option>
+        <option>Sate Madura</option>
+        </optgroup>
+        
+        <optgroup label="Makanan Berkuah">
+        <option>Gulai</option>
+        <option>Soto</option>
+        </optgroup>
+    
+    </select>
+    
+    <br><br><br>
+    <input type ="text" list="isidatalist">
+    <datalist id="isidatalist">
+        <option>Sate Padang</option>
+        <option>Sate Madura</option>
+        <option>Gulai</option>
+        <option>Soto</option>
+    </datalist>
+        <br><br><br>
+    </form>
+    
+
+    <label>nama lengkap :</label>
+        <input type="text">
+    <br>
+    <label>Alamat :</label>
+        <textarea>
+        
+        </textarea>
+        <br>
+    <button>simpan</button>
+    
+    <br><br>
+    
+    
+    <form>
+        <input type="text"/>
+        <input type="submit" value="simpan"/>
+        <input type="reset" value="reset input"/>
+        
+    </form>
+    
+    <br><br>
+    
+    
+    <!--<form>
+        <input type="text" value="dani hamdani"/>
+        <input type="text" placeholder="Nama Lengkap"/>
+        <input type="reset" value="reset input"/>-->
+        
+    </form>
+        <input type="text" value="dani hamdani" readonly id="id_peserta_depan" class="InputName/>
+        <input type="text" value="dani hamdani" disabled/>
+        <input type="text" placeholder="Nama Lengkap"/>
+        <input type="reset" value="reset input"/>
+    
+    
+    
+    
+    
+    
+    
+
+</body>
+</html>
+
+
